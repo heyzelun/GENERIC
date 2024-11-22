@@ -1,0 +1,7 @@
+C:\Users\BAGUIO PC\source\repos\LINQ\GENERICS\bin\Debug\GENERICS.exe.config
+C:\Users\BAGUIO PC\source\repos\LINQ\GENERICS\bin\Debug\GENERICS.exe
+C:\Users\BAGUIO PC\source\repos\LINQ\GENERICS\bin\Debug\GENERICS.pdb
+C:\Users\BAGUIO PC\source\repos\LINQ\GENERICS\obj\Debug\GENERICS.csproj.AssemblyReference.cache
+C:\Users\BAGUIO PC\source\repos\LINQ\GENERICS\obj\Debug\GENERICS.csproj.CoreCompileInputs.cache
+C:\Users\BAGUIO PC\source\repos\LINQ\GENERICS\obj\Debug\GENERICS.exe
+C:\Users\BAGUIO PC\source\repos\LINQ\GENERICS\obj\Debug\GENERICS.pdb
